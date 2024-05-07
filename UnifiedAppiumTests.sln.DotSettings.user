@@ -1,0 +1,54 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=04f43dfa_002D945b_002D4f0e_002Dbde2_002D42b2ed41026f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterUserFrance #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::35C2EA16-28A0-4931-AC95-6FB99B9F94CC::net8.0::UnifiedAppiumTests.Avatrade.Tests.RegisterFlowTest.RegisterUserFrance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0ca1527b_002D4991_002D4442_002Dacfd_002D313723e8eb59/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterUserFrance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::35C2EA16-28A0-4931-AC95-6FB99B9F94CC::net8.0::UnifiedAppiumTests.Avatrade.Tests.RegisterFlowTest.RegisterUserFrance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=80692376_002D8217_002D4d08_002D9842_002D6e1b4004e34a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterUserFrance #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::35C2EA16-28A0-4931-AC95-6FB99B9F94CC::net8.0::UnifiedAppiumTests.Avatrade.Tests.RegisterFlowTest.RegisterUserFrance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=846a4141_002Da6e2_002D47ff_002D97f4_002D16ac2f187d1b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterUser #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::35C2EA16-28A0-4931-AC95-6FB99B9F94CC::net8.0::UnifiedAppiumTests.Avatrade.Tests.RegisterFlowTest.RegisterUser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8b9c91c5_002Db8d7_002D442f_002D8a04_002Dbff7015e008f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterUserFrance #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::35C2EA16-28A0-4931-AC95-6FB99B9F94CC::net8.0::UnifiedAppiumTests.Avatrade.Tests.RegisterFlowTest.RegisterUserFrance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9596112d_002Dca96_002D4ee2_002Db501_002Dc185e75e503b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterUser #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::35C2EA16-28A0-4931-AC95-6FB99B9F94CC::net8.0::UnifiedAppiumTests.Avatrade.Tests.RegisterFlowTest.RegisterUser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b0f6d05e_002D63b5_002D48dc_002D8c40_002Dd7ea64ad86ec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterUser #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::35C2EA16-28A0-4931-AC95-6FB99B9F94CC::net8.0::UnifiedAppiumTests.Avatrade.Tests.RegisterFlowTest.RegisterUser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c4889751_002D8028_002D4f59_002Dae1f_002Dd3e911e1455f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterUserFrance #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::35C2EA16-28A0-4931-AC95-6FB99B9F94CC::net8.0::UnifiedAppiumTests.Avatrade.Tests.RegisterFlowTest.RegisterUserFrance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d2406154_002D4cdf_002D4834_002D8e8e_002D97d573ea23fd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RegisterUser" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;35C2EA16-28A0-4931-AC95-6FB99B9F94CC/d:Tests/f:RegisterFlowTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0e5f995_002De6b8_002D4f9e_002D8f2e_002Dff639eedb61f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterUser #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::35C2EA16-28A0-4931-AC95-6FB99B9F94CC::net8.0::UnifiedAppiumTests.Avatrade.Tests.RegisterFlowTest.RegisterUser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Avatrade/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
