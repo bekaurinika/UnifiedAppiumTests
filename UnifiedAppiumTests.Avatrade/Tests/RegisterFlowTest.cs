@@ -1,9 +1,8 @@
+namespace UnifiedAppiumTests.Avatrade.Tests;
+
 using Microsoft.VisualBasic.CompilerServices;
 using OpenQA.Selenium.Support.UI;
 using UnifiedAppiumTests.Avatrade.Pages.Desktop;
-
-namespace UnifiedAppiumTests.Avatrade.Tests;
-
 using NUnit.Framework;
 using OpenQA.Selenium;
 using UnifiedAppiumTests.Avatrade.Utilities;
@@ -64,8 +63,8 @@ public class RegisterFlowTest
             "The market is moving in favor of my position", "Speculation");
 
         registerForm.AgreeToTerms();
-
-        // registerForm.AgreeToAdditinalFields();
+        
+        registerForm.AgreeToAdditinalFields();
 
         registerForm.WaitForMessageAndClose();
 

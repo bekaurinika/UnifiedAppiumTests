@@ -11,7 +11,7 @@ namespace UnifiedAppiumTests.Avatrade.Utilities
 
         static ConfigurationHelper()
         {
-            // Build configuration
+
             Configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
@@ -21,11 +21,11 @@ namespace UnifiedAppiumTests.Avatrade.Utilities
 
         public static string GetSetting(string key)
         {
-            // Retrieve the value from the configuration
+
             return Configuration[key];
         }
 
-        // Example method to retrieve Appium settings
+
         public static string GetAppiumSetting(string settingName)
         {
             return Configuration.GetSection("AppiumSettings")[settingName];

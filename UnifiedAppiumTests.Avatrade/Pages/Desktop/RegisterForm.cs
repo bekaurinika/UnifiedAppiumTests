@@ -129,8 +129,6 @@ public class RegisterForm : BasePage
         Driver.FindElement(ApartmentField).SendKeys(apartment);
         Driver.FindElement(PostalCodeField).SendKeys(postalCode);
         Driver.FindElement(PhoneNumberField).SendKeys(phoneNumber);
-        // IWebElement Element = Driver.FindElement(BaseCurrencyDropdownField);
-        // ((IJavaScriptExecutor)Driver).ExecuteScript("arguments[0].scrollIntoView(true);", Element);
         Driver.FindElement(SubmitButton).Click();
     }
 
@@ -201,9 +199,16 @@ public class RegisterForm : BasePage
 
     public void AgreeToAdditinalFields()
     {
-        wait.Until(ExpectedConditions.PresenceOfAllElementsLocatedBy(AdditionalFieldsCheckbox));
-        wait.Until(ExpectedConditions.ElementToBeClickable(AdditionalFieldsCheckbox));
-        Driver.FindElement(AdditionalFieldsCheckbox).Click();
-        Driver.FindElement(SubmitButton).Click();
+        try
+        {
+            wait.Until(ExpectedConditions.PresenceOfAllElementsLocatedBy(AdditionalFieldsCheckbox));
+            wait.Until(ExpectedConditions.ElementToBeClickable(AdditionalFieldsCheckbox));
+            Driver.FindElement(AdditionalFieldsCheckbox).Click();
+            Driver.FindElement(SubmitButton).Click();
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+        }
     }
 }
